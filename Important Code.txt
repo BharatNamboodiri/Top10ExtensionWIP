@@ -1,0 +1,10 @@
+Download-(<a href="" target="_blank"></a>)
+
+font-family: 'Nunito', sans-serif;
+
+<section class="extensions">
+        <h2>no:) *extension_name*</h2>
+        <div class="line">
+        </div>
+        <img src="extension.png" height="100px" width="100px">
+        <p></p>

@@ -1,0 +1,25 @@
+body{
+        font-family: 'Nunito', sans-serif;
+    background-color: #ffffff;
+    align-items: center;
+    margin: 10px;
+}
+.line{
+    height: 6px;
+    background-color: rgb(97, 97, 97);
+    width: 90px;
+    margin: 1px ;
+}
+.extensions{
+    margin-left: 10px;
+}
+/* Hide scrollbar for Chrome, Safari and Opera */
+.body::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .body {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
